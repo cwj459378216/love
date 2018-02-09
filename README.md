@@ -4,3 +4,6 @@ loveyue系列1到8的源码
 
 # 预览地址
  前面加http://htmlpreview.github.io/?https://github.com/cwj459378216/love/blob/master/my/love.html
+ 
+# 预览方法二  解决有时无法加载css js
+ 地址 ：https://www.cnblogs.com/hfxm/p/5956493.html
